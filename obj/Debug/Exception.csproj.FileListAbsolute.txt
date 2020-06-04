@@ -1,0 +1,6 @@
+C:\Users\acer\source\repos\HW_5\Exception\bin\Debug\Exception.exe.config
+C:\Users\acer\source\repos\HW_5\Exception\bin\Debug\Exception.exe
+C:\Users\acer\source\repos\HW_5\Exception\bin\Debug\Exception.pdb
+C:\Users\acer\source\repos\HW_5\Exception\obj\Debug\Exception.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\HW_5\Exception\obj\Debug\Exception.exe
+C:\Users\acer\source\repos\HW_5\Exception\obj\Debug\Exception.pdb
